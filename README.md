@@ -12,7 +12,7 @@ Me gusta aprender cosas nuevas y mejorar mis conocimientos
 
 ### Contacto
 
--📫 lizethavendano51@gmail.com
+-📫 avendano.lizeth.1@gmail.com
 
 <!--
 **Lizethatx/Lizethatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
