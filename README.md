@@ -1,5 +1,17 @@
-### Soy Lizeth Avendaño Garcia
-Estudio Ingeniería en computación en CUCEI UDG
+### ✨Hola, soy Lizeth Avendaño Garcia✨
+Estudio Ingeniería en computación en CUCEI UDG 
+
+Me gusta aprender cosas nuevas y mejorar mis conocimientos
+### Lenguajes
+
+✔Python
+
+✔C/ C++
+
+-🌱Actualmente estoy aprendiendo PHP
+
+-📫 Mi contacto:
+lizethavendano51@gmail.com
 
 <!--
 **Lizethatx/Lizethatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
