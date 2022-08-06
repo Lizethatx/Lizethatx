@@ -12,7 +12,7 @@ Me gusta aprender cosas nuevas y mejorar mis conocimientos
 
 ### Contacto
 
-- 📫 t.me/lizeth_atx 
+- 📫 https://t.me/lizeth_atx 
 
 <!--
 **Lizethatx/Lizethatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
