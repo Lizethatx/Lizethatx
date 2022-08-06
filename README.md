@@ -10,7 +10,9 @@ Me gusta aprender cosas nuevas y mejorar mis conocimientos
 
 -🌱Actualmente estoy aprendiendo PHP
 
+### Contacto
 
+- 📫 t.me/lizeth_atx
 
 <!--
 **Lizethatx/Lizethatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
